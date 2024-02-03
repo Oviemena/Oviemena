@@ -6,7 +6,7 @@
 - AI
 - Robotics
 - Cloud Computing
-- 
+  
 ### 🚀 I'm currently working on...
 
 - An ecommerce app that allows customers to bid on products of their choices,and the customer with the highest bid wins the item.
