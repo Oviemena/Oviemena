@@ -23,7 +23,7 @@
 ###### 📫  How to reach me...
 
 - Email: okpowoduoviemena999@gmail.com
-- LinkedIn: Oviemena Okpowodu
+- LinkedIn: [Oviemena Okpowodu](https://www.linkedin.com/in/oviemena-okpowodu-a91935193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 <!---
 Oviemena/Oviemena is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
