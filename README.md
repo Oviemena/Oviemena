@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Oviemena Abraham Okpowodu.
-- I'm a software Engineer who loves to create web applications using Django, React/Next and  Express Js.
+- I'm a software Engineer who loves to modern web  applications with JavaScript, Python and Java.
   
 ## 👀 I’m interested in...
 
