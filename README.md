@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Oviemena Abraham Okpowodu.
-- I'm a software Engineer who loves to modern web  applications with JavaScript, Python and Java.
+- I'm a software Engineer who loves to build modern web  applications with JavaScript, Python and Node Js.
   
 ## 👀 I’m interested in...
 
@@ -16,8 +16,8 @@
 #### 🌱 I’m currently  learning...
 
 - Containerization with Docker and Kuberneates using AWS services
-- Redis as a database and caching tool.
-- llms with langchain and llamaindex.
+- Go and Java Programming Language.
+- Microservices and distributed systems.
 
 ##### 💞️ I’m looking to collaborate on web development...
   
