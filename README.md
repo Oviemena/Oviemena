@@ -9,15 +9,13 @@
   
 ### 🚀 I'm currently working on...
 
-- An ecommerce app that allows customers to bid on products of their choices,and the customer with the highest bid wins the item.
-  
-- A social media app that supports real time life chats and files sharing
+- Pulselite is a lightweight system monitoring tool designed to collect and process system metrics efficiently for DevOps,small businesses and IOT
+- A rider app application that takes inspiration from Uber or Lyft,but with some little tweaks.
   
 #### 🌱 I’m currently  learning...
 
-- Containerization with Docker and Kuberneates using AWS services
+- System Designs.
 - Go and Java Programming Language.
-- Microservices and distributed systems.
 
 ##### 💞️ I’m looking to collaborate on web development...
   
